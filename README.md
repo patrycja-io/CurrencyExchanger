@@ -1,6 +1,7 @@
 # Currency Exchange Converter
 
-![Alt text](./app.png "App Image")
+![image](/app.png)
+
 https://patrycja-io.github.io/CurrencyExchanger/
 
 This is a simple currency exchange converter built with React and CSS. It allows users to convert between two currencies by selecting the currencies and entering the amount they wish to convert.
